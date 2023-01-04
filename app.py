@@ -1,4 +1,5 @@
-#Simple rest api where you could get the data
+#Simple api where you could get the data
+#Add post, get, delete later
 
 from flask import Flask, jsonify
 import pandas as pd
